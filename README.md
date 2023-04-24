@@ -1,4 +1,5 @@
 # Hello there! ![hello](https://user-images.githubusercontent.com/52117939/233884235-5d5dc8c3-80cc-4ef1-9254-41d4d2bcfd59.png)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 I'm Vani, and I do web development. I really enjoy learning programming language and frameworks like React. I'm also a big fan of modern UI/UX design working with Figma, TailwindCSS, and creative developent with VR ThreeJS,ect.
 
 
@@ -35,7 +36,9 @@ I'm Vani, and I do web development. I really enjoy learning programming language
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" title="WordPress" height="25"/></span> &nbsp;
+
 # 📊GitHub Stats :
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <span>[<img src="https://github-readme-stats.vercel.app/api?username=thanhvanb&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=thanhvanb)</span>
 <span>[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhvanb&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhvanb)</span>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThanhVanB&theme=radical&hide_border=false)<br/>
