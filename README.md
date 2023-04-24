@@ -4,7 +4,7 @@ I'm Vani, and I do web development. I really enjoy learning programming language
 
 
 ### 🌐Connect me via:
- 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <span align="left">
   <a href="https://www.linkedin.com/in/thanh-van-bui-06631366/">
     <img src="https://img.shields.io/badge/-Van_Bui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thanh-van-bui-06631366/" />
