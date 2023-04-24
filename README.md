@@ -12,6 +12,13 @@ I'm Vani, and I do web development. I really enjoy learning programming language
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThanhVanB&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhVanB&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# Certificate:
+Google Data Analytics Certificate: https://www.credly.com/badges/c061a754-ba40-48bf-ae3f-6b8388c32bb0?source=linked_in_profile
+
+Data Analysis with R Programming: https://www.coursera.org/account/accomplishments/certificate/6WS43SPVCQAR
+
+SQL for Data Science:https://www.coursera.org/account/accomplishments/certificate/V3RM9X9DM8HB
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ThanhVanB&icon=0&color=0)](https://visitcount.itsvg.in)
 
