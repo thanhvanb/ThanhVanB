@@ -36,11 +36,9 @@ I'm Vani, and I do web development. I really enjoy learning programming language
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" title="WordPress" height="25"/></span> &nbsp;
 # 📊GitHub Stats :
-
-![](https://github-readme-stats.vercel.app/api?username=ThanhVanB&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<span>[<img src="https://github-readme-stats.vercel.app/api?username=thanhvanb&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=thanhvanb)</span>
+<span>[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhvanb&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhvanb)</span>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThanhVanB&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhVanB&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThanhVanB&icon=0&color=0)](https://visitcount.itsvg.in)
