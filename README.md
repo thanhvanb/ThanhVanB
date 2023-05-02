@@ -49,5 +49,3 @@ I'm Vani, and I do web development. I really enjoy learning programming language
 [![](https://visitcount.itsvg.in/api?id=ThanhVanB&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
-
